@@ -1,0 +1,26 @@
+{
+  "name": "ynab",
+  "version": "0.0.1",
+  "description": "A Node.js library that provides native access to YNAB data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelroldan/ynab.git"
+  },
+  "keywords": [
+    "ynab",
+    "budget",
+    "finance",
+    "home",
+    "administration"
+  ],
+  "author": "Israel Roldan (npm@israelroldan.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israelroldan/ynab/issues"
+  },
+  "homepage": "https://github.com/israelroldan/ynab#readme"
+}

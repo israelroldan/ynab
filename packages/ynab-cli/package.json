@@ -1,0 +1,29 @@
+{
+  "name": "ynab-cli",
+  "version": "0.0.1",
+  "description": "A CLI tool to access YNAB data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelroldan/ynab.git"
+  },
+  "keywords": [
+    "ynab",
+    "finance",
+    "money",
+    "cli",
+    "administration"
+  ],
+  "author": "Israel Roldan (npm@israelroldan.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/israelroldan/ynab/issues"
+  },
+  "homepage": "https://github.com/israelroldan/ynab#readme",
+  "dependencies": {
+    "ynab": "^0.0.1"
+  }
+}
